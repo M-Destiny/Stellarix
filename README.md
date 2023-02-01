@@ -2,10 +2,17 @@
 Stellarix is a chat AI designed to help students with their studies and coding. With its advanced algorithms and natural language processing capabilities, Stellarix can provide valuable assistance and support for students as they work through their coursework.
 
 ## Features
-Provides answers to questions about a variety of subjects, including coding and computer science, mathematics, and more.
+<ul>
+<li>Provides answers to questions about a variety of subjects, including coding and computer science, mathematics, and more.</li>
+<li>
 Offers real-time coding assistance, helping students debug their code and understand complex concepts.
+</li>
+<li>
 Saves students time by quickly providing relevant information and resources, without the need to search multiple sources.
-Getting Started
+</li>
+</ul>
+
+## Getting Started
 To use Stellarix, simply start a chat and ask your question. Stellarix will provide an answer as quickly as possible. If you need help with a specific coding problem, paste your code into the chat and Stellarix will provide suggestions and solutions.
 
 ## Support
